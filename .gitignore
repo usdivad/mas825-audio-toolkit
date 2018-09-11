@@ -1,4 +1,5 @@
 .DS_Store
 *.RPP-bak
+*_test.hpm
 
 hp_maps
