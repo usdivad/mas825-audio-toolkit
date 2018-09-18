@@ -3,7 +3,7 @@ MAS.825 Audio Toolkit
 
 Some tools and resources for you to get started experimenting with audio!
 
-For the Fall 2018 edition of MAS.825: Experiments in Art, Audio, & Augmentation.
+For the Fall 2018 edition of [MAS.825: Experiments in Art, Audio, & Augmentation](http://eaaa.media.mit.edu/).
 
 ## Software
 - **Hyperproduction**
