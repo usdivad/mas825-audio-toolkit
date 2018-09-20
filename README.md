@@ -12,6 +12,13 @@ For the Fall 2018 edition of [MAS.825: Experiments in Art, Audio, & Augmentation
 - **Reaper**
     - https://www.reaper.fm/
 
+## Tutorials
+- [Tutorial #1: MIDI Sampler Playback](https://youtu.be/xUIrXPZq36A)
+- [Tutorial #2: Custom Mappings](https://youtu.be/s5hwyzc1cLc)
+- [Tutorial #3: OSC and Effects](https://youtu.be/ihvEiKCY6PY)
+
+All project files for tutorials are in the **tutorials** folder.
+
 ## Examples
 - **hyperproduction_examples**:
     - MIDI:
